@@ -1,0 +1,15 @@
+@import './normalize';
+@import './skeleton';
+
+.normal {
+    background-color: #D95887;
+}
+
+.long {
+    background-color: #428CE2;
+
+    p {
+        padding: 100px;
+        color: white;
+    }
+}
